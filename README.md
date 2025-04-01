@@ -12,7 +12,7 @@ Este espacio está diseñado para alojar y documentar proyectos relacionados con
 2. Notebooks: Jupyter Notebooks con análisis exploratorio de datos y modelado.
 
 **💡 Clona este repositorio en tu máquina local:**
-git clone https://github.com/tu_usuario/linear_regression.git
+* git clone https://github.com/tu_usuario/linear_regression.git
 
 **🌟 Proyectos incluidos**
 1. Coches usados del Reino Unido
@@ -23,7 +23,7 @@ git clone https://github.com/tu_usuario/linear_regression.git
 3. Relación entre Consumo de Energía y Temperatura
 
 **🤝 Contribuciones**
-¡Tu colaboración es bienvenida! Si tienes ideas o mejoras, no dudes en abrir un issue o enviar un pull request.
+* ¡Tu colaboración es bienvenida! Si tienes ideas o mejoras, no dudes en abrir un issue o enviar un pull request.
 
 **📄 Licencia**
-Este repositorio se encuentra bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+* Este repositorio se encuentra bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
