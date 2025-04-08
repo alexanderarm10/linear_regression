@@ -15,12 +15,12 @@ Este espacio está diseñado para alojar y documentar proyectos relacionados con
 * git clone https://github.com/tu_usuario/linear_regression.git
 
 **🌟 Proyectos incluidos**
-1. Coches usados del Reino Unido
+1. 12 Coches usados más vendidos del Reino Unido
+2. Expectativa de Vida
 
 **🌟 Proyectos por venir**
-1. Análisis de Expectativa de Vida
-2. Predicción de Peso de Peces
-3. Relación entre Consumo de Energía y Temperatura
+1. Predicción de Peso de Peces
+2. Relación entre Consumo de Energía y Temperatura
 
 **🤝 Contribuciones**
 * ¡Tu colaboración es bienvenida! Si tienes ideas o mejoras, no dudes en abrir un issue o enviar un pull request.
