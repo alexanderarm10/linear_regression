@@ -17,13 +17,7 @@ Este espacio está diseñado para alojar y documentar proyectos relacionados con
 **🌟 Proyectos incluidos**
 1. 12 Coches usados más vendidos del Reino Unido
 2. Expectativa de Vida
-
-**🌟 Proyectos por venir**
-1. Predicción de Peso de Peces
-2. Relación entre Consumo de Energía y Temperatura
-
-**🤝 Contribuciones**
-* ¡Tu colaboración es bienvenida! Si tienes ideas o mejoras, no dudes en abrir un issue o enviar un pull request.
+3. Predicción de Peso de Peces
 
 **📄 Licencia**
 * Este repositorio se encuentra bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
