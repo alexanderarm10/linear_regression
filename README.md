@@ -12,7 +12,7 @@ Este espacio está diseñado para alojar y documentar proyectos relacionados con
 2. Notebooks: Jupyter Notebooks con análisis exploratorio de datos y modelado.
 
 **💡 Clona este repositorio en tu máquina local:**
-* git clone https://github.com/tu_usuario/linear_regression.git
+* git clone https://github.com/alexanderarm10/linear_regression.git
 
 **🌟 Proyectos incluidos**
 1. 12 Coches usados más vendidos del Reino Unido
